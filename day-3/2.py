@@ -1,4 +1,3 @@
-from functools import cache
 import sys
 s = 0
 for line in sys.stdin:
