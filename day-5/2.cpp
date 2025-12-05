@@ -1,3 +1,6 @@
+// Yes I know this is not optimal
+// It was just the first thing I thought of
+
 #include <bits/stdc++.h>
 using namespace std;
 using ll = long long;
