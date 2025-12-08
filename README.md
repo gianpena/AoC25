@@ -7,3 +7,5 @@ advent 2025 1 | python sol.py
 ```
 
 This means that my programs this year will also be utilizing standard input.
+
+Additionally, if you are interested in obtaining sample inputs for the days, I have made a separate utility you can find [here](https://github.com/gianpena/aoc-example-input). 
