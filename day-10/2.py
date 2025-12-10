@@ -42,7 +42,7 @@ def shortest(i):
 
     ans = 0
     for j in range(len(buttons[i])):
-        ans  += x[j].value()
+        ans += x[j].value()
 
     return ans
 
