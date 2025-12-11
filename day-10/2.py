@@ -19,7 +19,6 @@ for line in sys.stdin:
         buttons[-1].append(list(map(int, line[i][1:-1].split(','))))
     joltage.append(tuple(map(int, line[-1][1:-1].split(','))))
 
-from heapq import heappush, heappop
 def shortest(i):
 
     prob = pl.LpProblem("min_sum", pl.LpMinimize)
